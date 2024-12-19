@@ -6,4 +6,4 @@ print("World")
 #Kamoladdin na gap ?
 print("sdkjcskdj")
 
-ikki odam ishlab biladi
+# ikki odam ishlab biladi
